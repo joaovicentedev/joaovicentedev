@@ -1,10 +1,31 @@
-### Hi there 👋
+# Hi, I'm Joao Vicente 👋
 
-<!--
-**joaovicentedev/joaovicentedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+## AI Engineer 🤖
 
-- 🔭 I’m currently working at Solix AG in AI and Backend. 
-- 🌱 I’m currently learning more about LLMs and system design.
-- 💬 Ask me about Python and Machine Learning.
-- ⚡ Fun fact: I have a silver medal in Brazil's national astronomy olympics.
+I build production AI systems.
+
+LLM applications. AI agents. Retrieval-Augmented Generation (RAG). Deep Learning. Research.
+
+Currently building reliable AI services at **Solinftec/Solix**.
+
+## What I Work On 🚀
+
+- 🧠 LLM-powered applications and agent architecture
+- 🔎 RAG pipelines, embeddings, and vector search
+- ⚡ Fast, reliable Python services
+- 📦 Production delivery with Docker and AWS
+
+## Stack 🛠️
+
+`Python` `FastAPI` `OpenAI APIs` `Qdrant` `FAISS` `Redis` `PyTorch` `Docker` `AWS`
+
+## Background 🎓
+
+**5+ years** building machine learning and AI solutions.
+
+Bachelor's Degree in Computer Engineering.
+
+## Contact 📬
+
+- [GitHub](https://github.com/joaovicentedev)
+- [Email](mailto:joaovicentedev@gmail.com)
